@@ -1,8 +1,8 @@
 # NAME: RITHVIK S
 # REG NO: 212223100045
 # EXP No. :6 CHARACTERISTICS M OF LVDT
-# AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
-find the graphical relationship between the two.
+# AIM:
+To measure output voltage w.r.t the displacement of the core on the LVDT kit and find the graphical relationship between the two.
 
 # APPARATUS: - LVDT kit, Multimeter
 
